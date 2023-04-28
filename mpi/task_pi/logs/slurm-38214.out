@@ -1,0 +1,3 @@
+NRANKS: 16
+Par time: 0.012164; 	Result: 3.1415927;
+Seq time: 0.033415; 	Result: 3.1415927;

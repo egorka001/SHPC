@@ -1,0 +1,4 @@
+RANKS: 64
+Array size: 1048576
+Seq time: 0.455768
+Par time: 0.834627
