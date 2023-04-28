@@ -5,54 +5,54 @@
 
 # Сравнение времени выполнения последовательного и параллельного алгоритмов в зависимости от размерности матрицы 
 
-RANKS: 8
-Matrix size: 8
-Seq_time: 0.000006
+**NRANKS: 8** \
+Matrix size: 8 \
+Seq_time: 0.000006 \
 Par time: 0.000130
 
-RANKS: 8
-Matrix size: 16
-Seq_time: 0.000042
+**NRANKS: 8** \
+Matrix size: 16 \
+Seq_time: 0.000042 \
 Par time: 0.000189
 
-RANKS: 8
-Matrix size: 32
-Seq_time: 0.000304
-Par time: 0.000324
+**NRANKS: 8** \
+Matrix size: 32 \
+Seq_time: 0.000304 \
+Par time: 0.000324 
 
-RANKS: 8
-Matrix size: 64
-Seq_time: 0.002501
+**NRANKS: 8** \
+Matrix size: 64 \
+Seq_time: 0.002501 \
 Par time: 0.000844
 
-RANKS: 8
-Matrix size: 128
-Seq_time: 0.018756
+**NRANKS: 8** \
+Matrix size: 128 \
+Seq_time: 0.018756 \
 Par time: 0.003621
 
-RANKS: 8
-Matrix size: 256
-Seq_time: 0.129059
+**NRANKS: 8** \
+Matrix size: 256 \
+Seq_time: 0.129059 \
 Par time: 0.025391
 
-RANKS: 8
-Matrix size: 512
-Seq_time: 1.161707
+**NRANKS: 8** \
+Matrix size: 512 \
+Seq_time: 1.161707 \
 Par time: 0.197321
 
-# Логи выполнения программы на разном числе процессоров
+# Выполнения программы на разном числе процессоров
 
-RANKS: 16
-Matrix size: 512
-Seq_time: 1.629994
+**NRANKS: 16** \
+Matrix size: 512 \
+Seq_time: 1.629994 \
 Par time: 0.203756
 
-RANKS: 32
-Matrix size: 512
-Seq_time: 1.514438
+**NRANKS: 32** \
+Matrix size: 512 \
+Seq_time: 1.514438 \
 Par time: 0.219018
 
-RANKS: 64
-Matrix size: 512
-Seq_time: 1.646173
+**NRANKS: 64** \
+Matrix size: 512 \
+Seq_time: 1.646173 \
 Par time: 0.349065
