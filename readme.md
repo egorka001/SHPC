@@ -1,16 +1,16 @@
-**task0** \
+**openMP/task0** \
 Задание openMP, сложением чисел в массиве тремя способами.
 
-**task1** \
+**openMP/task1** \
 Задание openMP, вычисление числа PI.
 
-**task2** \
+**openMP/task2** \
 Задание openMP, исследование масшитабируемости на примере вычисления PI.
 
-**task3** \
+**openMP/task3** \
 Задание openMP, перемножение матриц.
 
-**task4** \
+**openMP/task4** \
 Задание openMP, quick_sort.
 
 **linpack_task** \
